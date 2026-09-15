@@ -1,0 +1,104 @@
+[
+  {
+    "id": "official-notice-board",
+    "date": "Live source",
+    "isoDate": "2026-09-15",
+    "category": "Official link",
+    "status": "Official",
+    "title": "UILS General Notice Board",
+    "summary": "The authoritative source for University Institute of Legal Studies circulars and notifications.",
+    "href": "https://www.uils.puchd.ac.in/show-noticeboard.php?nbid=1",
+    "cta": "View official notices",
+    "featured": true
+  },
+  {
+    "id": "student-notices",
+    "date": "Live source",
+    "isoDate": "2026-09-15",
+    "category": "Official link",
+    "status": "Official",
+    "title": "UILS Student Notices",
+    "summary": "Student-facing notices published by UILS, including academic and administrative updates.",
+    "href": "https://www.uils.puchd.ac.in/show-noticeboard.php?nbid=5",
+    "cta": "Open student notices"
+  },
+  {
+    "id": "lex-novus-2026-report",
+    "date": "28 Feb 2026",
+    "isoDate": "2026-02-28",
+    "category": "Published event report",
+    "status": "Public archive",
+    "title": "Lex Novus 2026 concludes at UILS",
+    "summary": "The published report records the final bench, winning teams, special awards and MCS coordinators for the 2026 intra department moot.",
+    "href": "https://www.scconline.com/blog/post/2026/02/28/lex-novus-intra-moot-court-competition-2026-uils/",
+    "cta": "Read event report",
+    "featured": true
+  },
+  {
+    "id": "satish-narang-2025-report",
+    "date": "27 Nov 2025",
+    "isoDate": "2025-11-27",
+    "category": "Published event report",
+    "status": "Public archive",
+    "title": "First Satish Chander Narang Intra Moot",
+    "summary": "A published account of the inaugural competition records thirty teams, the collaboration with Khaitan & Co. and the distinguished final bench.",
+    "href": "https://www.scconline.com/blog/post/2025/11/27/uils-panjab-university-satish-chander-narang-intra-moot-court-competition-2025/",
+    "cta": "Read event report",
+    "featured": true
+  },
+  {
+    "id": "arguendo-2026-brochure",
+    "date": "19 to 21 Mar 2026",
+    "isoDate": "2026-03-19",
+    "category": "Competition brochure",
+    "status": "Public archive",
+    "title": "Ninth National Law Fest Arguendo 2026",
+    "summary": "The published brochure presents the UILS National Moot Court Competition and the sixth Justice A. S. Anand National Mediation and Negotiation Competition.",
+    "href": "https://www.lawctopus.com/wp-content/uploads/2026/02/ARGUENDO-2026-BROCHURE-_compressed.pdf",
+    "cta": "Open brochure"
+  },
+  {
+    "id": "uils-national-moot-2025",
+    "date": "25 Mar 2025",
+    "isoDate": "2025-03-25",
+    "category": "Competition archive",
+    "status": "Official archive",
+    "title": "UILS National Moot Court Competition, 2025",
+    "summary": "Competition material listed on the official UILS activity board. Retained here as a reference to the Society’s national competition programme.",
+    "href": "https://www.uils.puchd.ac.in/show-noticeboard.php?nbid=28",
+    "cta": "View UILS activity board"
+  },
+  {
+    "id": "mcs-constitution-2021",
+    "date": "10 Aug 2021",
+    "isoDate": "2021-08-10",
+    "category": "Governance archive",
+    "status": "Official archive",
+    "title": "UILS Moot Court Society Constitution",
+    "summary": "An archived constitution entry appears on the official UILS student-notices listing. Students should verify whether a later version applies.",
+    "href": "https://www.uils.puchd.ac.in/show-noticeboard.php?nbid=5",
+    "cta": "Check official archive"
+  },
+  {
+    "id": "orientation-demo",
+    "date": "To be announced",
+    "isoDate": "2026-10-01",
+    "category": "Training",
+    "status": "Prototype",
+    "title": "Mooting orientation & demonstration round",
+    "summary": "A proposed induction session covering team roles, research planning, memorial structure, and oral-round etiquette. This is demo content, not an announced event.",
+    "href": "/training",
+    "cta": "Preview training plan"
+  },
+  {
+    "id": "allocation-demo",
+    "date": "Schedule pending",
+    "isoDate": "2026-09-30",
+    "category": "Team allocation",
+    "status": "Prototype",
+    "title": "External competition interest form",
+    "summary": "Placeholder for a future MCS-approved allocation notice. No application is presently being collected through this prototype.",
+    "href": "/competitions",
+    "cta": "Understand the process"
+  }
+]

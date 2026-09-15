@@ -1,0 +1,101 @@
+{
+  "faculty": [
+    {
+      "name": "Prof. (Dr.) Jai Mala Narotra",
+      "role": "Faculty In-Charge · 2026–27",
+      "designation": "Professor, University Institute of Legal Studies",
+      "qualifications": "Ph.D. in Law, LL.M., B.Sc. Medical",
+      "expertise": "Women and their rights",
+      "image": "/assets/jai-mala-narotra.jpg",
+      "imageAlt": "Prof. (Dr.) Jai Mala Narotra",
+      "profile": "https://uils.puchd.ac.in/show-biodata.php?qstrempdesigcode=8&qstrempid=2493",
+      "sourceNote": "Official UILS profile and current tenure information supplied for this prototype",
+      "verified": true
+    },
+    {
+      "name": "Dr. Shivani Gupta",
+      "role": "Faculty In-Charge · 2026–27",
+      "designation": "Assistant Professor of Law",
+      "qualifications": "Ph.D.",
+      "expertise": "Faculty guidance and moot court coordination",
+      "image": null,
+      "imageAlt": "",
+      "profile": "https://www.uils.puchd.ac.in/centres-societies-cells.php",
+      "sourceNote": "Current tenure information supplied for this prototype. Public records also note earlier MCS coordination work",
+      "verified": true
+    }
+  ],
+  "previousFaculty": [
+    {
+      "name": "Dr. Supreet Gill",
+      "role": "Previously listed Faculty In-Charge",
+      "designation": "Assistant Professor, University Institute of Legal Studies",
+      "qualifications": "Ph.D.",
+      "expertise": "Intellectual property rights and health law",
+      "service": "Led MCS programmes including Lex Novus 2026 and the UILS National Moot Court Competition at Arguendo 2026",
+      "image": "/assets/supreet-gill.png",
+      "imageAlt": "Dr. Supreet Gill",
+      "profile": "https://www.uils.puchd.ac.in/show-biodata.php?qstrempdesigcode=10&qstrempid=12067",
+      "sourceNote": "Official UILS faculty profile and Arguendo 2026 brochure"
+    },
+    {
+      "name": "Dr. Shivani Gupta",
+      "role": "Previously listed Faculty In-Charge",
+      "designation": "Assistant Professor of Law",
+      "qualifications": "Ph.D.",
+      "expertise": "Legal education and moot court coordination",
+      "service": "Publicly documented as Assistant Faculty Co-ordinator for Arguendo 2026 and Lex Novus 2026. Continues in the current 2026–27 tenure",
+      "image": null,
+      "imageAlt": "",
+      "profile": "https://www.uils.puchd.ac.in/centres-societies-cells.php",
+      "sourceNote": "Official UILS MCS listing and public competition material"
+    },
+    {
+      "name": "Dr. Gurpreet Kaur",
+      "role": "Previously listed Faculty In-Charge",
+      "designation": "Faculty member, University Institute of Legal Studies",
+      "qualifications": "Legal academic",
+      "expertise": "Legal education and competition coordination",
+      "service": "Named as a faculty coordinator for the 2024 Surana and Surana UILS Environmental Law Moot",
+      "image": null,
+      "imageAlt": "",
+      "profile": "https://www.uils.puchd.ac.in/centres-societies-cells.php",
+      "sourceNote": "Official UILS MCS listing and published 2024 competition material"
+    }
+  ],
+  "studentLeadership": [
+    {
+      "name": "To be confirmed",
+      "role": "President / Coordinator",
+      "note": "Prototype roster slot"
+    },
+    {
+      "name": "To be confirmed",
+      "role": "Convenor",
+      "note": "Prototype roster slot"
+    },
+    {
+      "name": "To be confirmed",
+      "role": "Co-Convenor",
+      "note": "Prototype roster slot"
+    }
+  ],
+  "workingGroups": [
+    {
+      "title": "Competition Operations",
+      "description": "Draws, team coordination, court-room logistics and tabulation support."
+    },
+    {
+      "title": "Research & Training",
+      "description": "Orientation, research methods, memorial clinics and practice rounds."
+    },
+    {
+      "title": "External Relations",
+      "description": "Institutional correspondence, invitations, judges and competition outreach."
+    },
+    {
+      "title": "Design & Communications",
+      "description": "Notices, schedules, participant handbooks and approved public updates."
+    }
+  ]
+}
